@@ -10,6 +10,8 @@
     "lint:fix": "next lint --fix",
     "format": "prettier -w ."
   },
+  "license": "MIT",
+  "author": "Gabriel dos Santos Oliveira <gabrielsantosoliveira951@gmail.com>",
   "dependencies": {
     "next": "13.2.4",
     "react": "18.2.0",
